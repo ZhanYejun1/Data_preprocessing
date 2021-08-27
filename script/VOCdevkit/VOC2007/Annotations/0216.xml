@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shanghen</folder>
+	<filename>0216.jpg</filename>
+	<path>C:\Users\17333\Desktop\data\shanghen\0216.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>793</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kengba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>540</ymin>
+			<xmax>555</xmax>
+			<ymax>808</ymax>
+		</bndbox>
+	</object>
+</annotation>

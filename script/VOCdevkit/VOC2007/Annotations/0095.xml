@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fengxi</folder>
+	<filename>0095.jpg</filename>
+	<path>C:\Users\17333\Desktop\data\fengxi\0095.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>888</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fengxi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>806</ymin>
+			<xmax>239</xmax>
+			<ymax>1036</ymax>
+		</bndbox>
+	</object>
+</annotation>

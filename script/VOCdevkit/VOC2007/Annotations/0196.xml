@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shanghen</folder>
+	<filename>0196.jpg</filename>
+	<path>C:\Users\17333\Desktop\data\shanghen\0196.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>921</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kailie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>223</xmin>
+			<ymin>876</ymin>
+			<xmax>619</xmax>
+			<ymax>1440</ymax>
+		</bndbox>
+	</object>
+</annotation>

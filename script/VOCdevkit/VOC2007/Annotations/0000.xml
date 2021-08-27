@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kongdong</folder>
+	<filename>0000.jpg</filename>
+	<path>C:\Users\17333\Desktop\data\kongdong\0000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>967</width>
+		<height>1911</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kongdong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>876</ymin>
+			<xmax>445</xmax>
+			<ymax>1014</ymax>
+		</bndbox>
+	</object>
+</annotation>
